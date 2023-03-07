@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YouTubePlayer</string>
+    <string name="tab_text_1">IFrame</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="iframeText">IFrame API, auto play, 480p only in android:</string>
+</resources>
